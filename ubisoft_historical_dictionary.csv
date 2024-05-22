@@ -1,0 +1,6 @@
+"variable","type","description"
+"Date","date","The date on which the data were recorded, from Jan 1, 2023 to Mar 31, 2023."
+"Day_of_Week","string","The day of the week corresponding to the date."
+"Visitors","integer","The total number of visitors to the For Honor page on that specific day."
+"Conversions","integer","The number of visitors who completed a conversion action, defined as purchasing the For Honor game."
+"Is_Campaign_Day","logical","A flag indicating whether a marketing campaign was active on that particular day."
