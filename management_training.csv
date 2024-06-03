@@ -1,4 +1,4 @@
-"departament_id","intervention","engagement_score","tenure","n_of_reports","gender","role","last_engagement_score","department_score","department_size"
+"department_id","intervention","engagement_score","tenure","n_of_reports","gender","role","last_engagement_score","department_score","department_size"
 76,1,0.28,6,4,2,4,0.61,0,843
 76,1,-0.45,4,8,2,4,0.07,0,843
 76,1,0.77,6,4,2,4,0.87,0,843
