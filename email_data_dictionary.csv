@@ -1,0 +1,6 @@
+"variable","type","description"
+"mkt_email","binary","The treatment indicator representing whether the customer received a marketing email."
+"next_mnth_pv","numeric","The outcome variable: purchase volume one month after receiving the marketing email."
+"age","integer","Customer's age (rounded to nearest year)."
+"tenure","integer","Time since first purchase on the website (rounded to nearest year)."
+"vehicle:health","integer","Counts of purchases in 22 product categories."
