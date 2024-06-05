@@ -1,0 +1,8 @@
+"variable","type","description"
+"date","character","The data on which downloads were recorded."
+"city","integer","The city in which offline advertising took place."
+"region","character","Region in which offline advertising took place. All the observations in this dataset are from S."
+"treated","integer","An indicator variable for whether advertising took place in a given city."
+"tau","numeric","The true effect (for checking the causal estimate)."
+"downloads","numeric","The number of app downloads recorded on a given date"
+"post","integer","An indicator variable for the treatment period."
