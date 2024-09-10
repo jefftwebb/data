@@ -3,5 +3,3 @@
 "group","character","Categorical variable indicating whether the customer was randomized into the treatment or control group."
 "date","date","The transaction date.  For free subscriptions this is the date the customer registered for the free service. Dates are arranged chronologically."
 "paid","integer","The amount spent on either the monthly subscription or one-time purchase."
-"control_count","integer","A running tally of the number of transactions for customers in the control, organized by date."
-"treatment_count","integer","A running tally of the number of transactions for customers in the treatment group, organized by date."
